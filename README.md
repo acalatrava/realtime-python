@@ -39,7 +39,7 @@ You can customize various settings in the `start.py` file, including:
 
 - Silence threshold for VAD
 - Minimum silence duration
-- 
+
 You can also modify the `prompt.txt` file to change the prompt of the assistant.
 
 ## Usage
