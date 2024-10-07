@@ -9,6 +9,10 @@ This Python project implements a voice assistant using OpenAI's new Realtime API
 - Supports both text and audio modalities
 - Provides real-time audio input and output
 - Calculates and displays token usage and associated costs
+- Allow to stop the assistant when start talking again
+
+## Sample video
+
 
 ## Why Client-side VAD?
 
