@@ -13,6 +13,7 @@ This Python project implements a voice assistant using OpenAI's new Realtime API
 
 ## Sample video
 
+https://github.com/user-attachments/assets/c40001bc-198b-4f5b-b98a-49b8984601ed
 
 ## Why Client-side VAD?
 
